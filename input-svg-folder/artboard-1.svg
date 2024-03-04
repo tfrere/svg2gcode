@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="190px" viewBox="0 0 280 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>artboard-1</title>
+    <g id="artboard-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="280" height="190"></rect>
+        <g id="layer-1" transform="translate(61.000000, 16.000000)" stroke="#979797" stroke-width="0.5">
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="152" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" x="1" y="16" width="4" height="4"></rect>
+            <rect id="Rectangle" x="153" y="16" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="23" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="152" y="23" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="30" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="152" y="30" width="6" height="6"></rect>
+            <line x1="1" y1="73" x2="5" y2="69" id="Path"></line>
+            <line x1="153" y1="73" x2="157" y2="69" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="84" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="152" y="84" width="6" height="6"></rect>
+            <line x1="1" y1="100" x2="5" y2="104" id="Path" fill-rule="nonzero"></line>
+            <line x1="1" y1="104" x2="5" y2="100" id="Path" fill-rule="nonzero"></line>
+            <line x1="153" y1="100" x2="157" y2="104" id="Path" fill-rule="nonzero"></line>
+            <line x1="153" y1="104" x2="157" y2="100" id="Path" fill-rule="nonzero"></line>
+            <line x1="1" y1="127" x2="5" y2="123" id="Path"></line>
+            <line x1="153" y1="127" x2="157" y2="123" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="152" y="129" width="6" height="6"></rect>
+            <line x1="1" y1="138.05" x2="5" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="1" y1="140.010784" x2="5" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="1" y1="141.971569" x2="5" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="153" y1="138.05" x2="157" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="153" y1="140.010784" x2="157" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="153" y1="141.971569" x2="157" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="1" y1="149" x2="5" y2="145" id="Path"></line>
+            <line x1="153" y1="149" x2="157" y2="145" id="Path"></line>
+            <line x1="9" y1="9.05" x2="13" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="9" y1="11.0107843" x2="13" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="9" y1="12.9715686" x2="13" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="145" y1="9.05" x2="149" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="145" y1="11.0107843" x2="149" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="145" y1="12.9715686" x2="149" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="9" y1="20" x2="13" y2="16" id="Path"></line>
+            <line x1="145" y1="20" x2="149" y2="16" id="Path"></line>
+            <rect id="Rectangle" x="9" y="31" width="4" height="4"></rect>
+            <rect id="Rectangle" x="145" y="31" width="4" height="4"></rect>
+            <rect id="Rectangle" x="9" y="39" width="4" height="4"></rect>
+            <rect id="Rectangle" x="145" y="39" width="4" height="4"></rect>
+            <circle id="Oval" cx="10.5" cy="48.5" r="1"></circle>
+            <circle id="Oval" cx="147.5" cy="48.5" r="1"></circle>
+            <rect id="Rectangle" fill-rule="nonzero" x="8" y="53" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="144" y="53" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="8" y="61" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="144" y="61" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="8" y="68" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="144" y="68" width="6" height="6"></rect>
+            <line x1="9" y1="81" x2="13" y2="77" id="Path"></line>
+            <line x1="145" y1="81" x2="149" y2="77" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="8" y="84" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="144" y="84" width="6" height="6"></rect>
+            <rect id="Rectangle" x="9" y="130" width="4" height="4"></rect>
+            <rect id="Rectangle" x="145" y="130" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="15" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="137" y="0" width="6" height="6"></rect>
+            <line x1="16" y1="28" x2="20" y2="24" id="Path"></line>
+            <line x1="138" y1="28" x2="142" y2="24" id="Path"></line>
+            <rect id="Rectangle" x="16" y="31" width="4" height="4"></rect>
+            <rect id="Rectangle" x="138" y="31" width="4" height="4"></rect>
+            <rect id="Rectangle" x="16" y="47" width="4" height="4"></rect>
+            <rect id="Rectangle" x="138" y="47" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="15" y="61" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="137" y="61" width="6" height="6"></rect>
+            <line x1="16" y1="73" x2="20" y2="69" id="Path"></line>
+            <line x1="138" y1="73" x2="142" y2="69" id="Path"></line>
+            <line x1="16" y1="130" x2="20" y2="134" id="Path" fill-rule="nonzero"></line>
+            <line x1="16" y1="134" x2="20" y2="130" id="Path" fill-rule="nonzero"></line>
+            <line x1="138" y1="130" x2="142" y2="134" id="Path" fill-rule="nonzero"></line>
+            <line x1="138" y1="134" x2="142" y2="130" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="15" y="137" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="137" y="137" width="6" height="6"></rect>
+            <circle id="Oval" cx="18.5" cy="154.5" r="1"></circle>
+            <circle id="Oval" cx="139.5" cy="154.5" r="1"></circle>
+            <line x1="24" y1="5" x2="28" y2="1" id="Path"></line>
+            <line x1="130" y1="5" x2="134" y2="1" id="Path"></line>
+            <line x1="24" y1="9.05" x2="28" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="11.0107843" x2="28" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="12.9715686" x2="28" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="9.05" x2="134" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="11.0107843" x2="134" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="12.9715686" x2="134" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="15" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="15" width="6" height="6"></rect>
+            <rect id="Rectangle" x="24" y="24" width="4" height="4"></rect>
+            <rect id="Rectangle" x="130" y="24" width="4" height="4"></rect>
+            <circle id="Oval" cx="25.5" cy="33.5" r="1"></circle>
+            <circle id="Oval" cx="132.5" cy="33.5" r="1"></circle>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="38" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="38" width="6" height="6"></rect>
+            <rect id="Rectangle" x="24" y="47" width="4" height="4"></rect>
+            <rect id="Rectangle" x="130" y="47" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="61" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="61" width="6" height="6"></rect>
+            <line x1="24" y1="73" x2="28" y2="69" id="Path"></line>
+            <line x1="130" y1="73" x2="134" y2="69" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="91" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="91" width="6" height="6"></rect>
+            <line x1="24" y1="104" x2="28" y2="100" id="Path"></line>
+            <line x1="130" y1="104" x2="134" y2="100" id="Path"></line>
+            <line x1="24" y1="107.05" x2="28" y2="107.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="109.010784" x2="28" y2="109.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="110.971569" x2="28" y2="110.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="107.05" x2="134" y2="107.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="109.010784" x2="134" y2="109.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="110.971569" x2="134" y2="110.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="114" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="114" width="6" height="6"></rect>
+            <rect id="Rectangle" x="24" y="130" width="4" height="4"></rect>
+            <rect id="Rectangle" x="130" y="130" width="4" height="4"></rect>
+            <line x1="24" y1="138.05" x2="28" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="140.010784" x2="28" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="24" y1="141.971569" x2="28" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="138.05" x2="134" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="140.010784" x2="134" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="130" y1="141.971569" x2="134" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="23" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="129" y="144" width="6" height="6"></rect>
+            <line x1="24" y1="157" x2="28" y2="153" id="Path"></line>
+            <line x1="130" y1="157" x2="134" y2="153" id="Path"></line>
+            <line x1="31" y1="1" x2="35" y2="5" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="5" x2="35" y2="1" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="1" x2="127" y2="5" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="5" x2="127" y2="1" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="30" y="8" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="122" y="8" width="6" height="6"></rect>
+            <line x1="31" y1="31" x2="35" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="35" x2="35" y2="31" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="31" x2="127" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="35" x2="127" y2="31" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="30" y="53" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="122" y="53" width="6" height="6"></rect>
+            <line x1="31" y1="62" x2="35" y2="66" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="66" x2="35" y2="62" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="62" x2="127" y2="66" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="66" x2="127" y2="62" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" x="31" y="85" width="4" height="4"></rect>
+            <rect id="Rectangle" x="123" y="85" width="4" height="4"></rect>
+            <rect id="Rectangle" x="31" y="92" width="4" height="4"></rect>
+            <rect id="Rectangle" x="123" y="92" width="4" height="4"></rect>
+            <line x1="31" y1="111" x2="35" y2="107" id="Path"></line>
+            <line x1="123" y1="111" x2="127" y2="107" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="30" y="114" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="122" y="114" width="6" height="6"></rect>
+            <line x1="31" y1="123.05" x2="35" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="125.010784" x2="35" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="126.971569" x2="35" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="123.05" x2="127" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="125.010784" x2="127" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="126.971569" x2="127" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="30" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="122" y="129" width="6" height="6"></rect>
+            <line x1="31" y1="138.05" x2="35" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="140.010784" x2="35" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="31" y1="141.971569" x2="35" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="138.05" x2="127" y2="138.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="140.010784" x2="127" y2="140.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="123" y1="141.971569" x2="127" y2="141.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="30" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="122" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" x="31" y="153" width="4" height="4"></rect>
+            <rect id="Rectangle" x="123" y="153" width="4" height="4"></rect>
+            <circle id="Oval" cx="41.5" cy="10.5" r="1"></circle>
+            <circle id="Oval" cx="117.5" cy="10.5" r="1"></circle>
+            <circle id="Oval" cx="41.5" cy="25.5" r="1"></circle>
+            <circle id="Oval" cx="117.5" cy="25.5" r="1"></circle>
+            <circle id="Oval" cx="41.5" cy="48.5" r="1"></circle>
+            <circle id="Oval" cx="117.5" cy="48.5" r="1"></circle>
+            <rect id="Rectangle" fill-rule="nonzero" x="38" y="84" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="114" y="84" width="6" height="6"></rect>
+            <rect id="Rectangle" x="39" y="92" width="4" height="4"></rect>
+            <rect id="Rectangle" x="115" y="92" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="38" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="114" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="38" y="137" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="114" y="137" width="6" height="6"></rect>
+            <circle id="Oval" cx="41.5" cy="147.5" r="1"></circle>
+            <circle id="Oval" cx="117.5" cy="147.5" r="1"></circle>
+            <line x1="39" y1="157" x2="43" y2="153" id="Path"></line>
+            <line x1="115" y1="157" x2="119" y2="153" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="46" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="106" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" x="47" y="9" width="4" height="4"></rect>
+            <rect id="Rectangle" x="107" y="9" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="46" y="23" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="106" y="23" width="6" height="6"></rect>
+            <line x1="47" y1="31" x2="51" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="35" x2="51" y2="31" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="31" x2="111" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="35" x2="111" y2="31" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="43" x2="51" y2="39" id="Path"></line>
+            <line x1="107" y1="43" x2="111" y2="39" id="Path"></line>
+            <line x1="47" y1="47" x2="51" y2="51" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="51" x2="51" y2="47" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="47" x2="111" y2="51" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="51" x2="111" y2="47" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="58" x2="51" y2="54" id="Path"></line>
+            <line x1="107" y1="58" x2="111" y2="54" id="Path"></line>
+            <line x1="47" y1="62" x2="51" y2="66" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="66" x2="51" y2="62" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="62" x2="111" y2="66" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="66" x2="111" y2="62" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" x="47" y="77" width="4" height="4"></rect>
+            <rect id="Rectangle" x="107" y="77" width="4" height="4"></rect>
+            <line x1="47" y1="85" x2="51" y2="89" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="89" x2="51" y2="85" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="85" x2="111" y2="89" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="89" x2="111" y2="85" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="46" y="114" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="106" y="114" width="6" height="6"></rect>
+            <line x1="47" y1="123.05" x2="51" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="125.010784" x2="51" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="47" y1="126.971569" x2="51" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="123.05" x2="111" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="125.010784" x2="111" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="107" y1="126.971569" x2="111" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="46" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="106" y="144" width="6" height="6"></rect>
+            <line x1="54" y1="16.05" x2="58" y2="16.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="18.0107843" x2="58" y2="18.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="19.9715686" x2="58" y2="19.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="16.05" x2="104" y2="16.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="18.0107843" x2="104" y2="18.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="19.9715686" x2="104" y2="19.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="23" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="23" width="6" height="6"></rect>
+            <line x1="54" y1="31.05" x2="58" y2="31.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="33.0107843" x2="58" y2="33.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="34.9715686" x2="58" y2="34.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="31.05" x2="104" y2="31.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="33.0107843" x2="104" y2="33.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="34.9715686" x2="104" y2="34.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="39" x2="58" y2="43" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="43" x2="58" y2="39" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="39" x2="104" y2="43" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="43" x2="104" y2="39" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="46" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="46" width="6" height="6"></rect>
+            <line x1="54" y1="54" x2="58" y2="58" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="58" x2="58" y2="54" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="54" x2="104" y2="58" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="58" x2="104" y2="54" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" x="54" y="62" width="4" height="4"></rect>
+            <rect id="Rectangle" x="100" y="62" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="76" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="76" width="6" height="6"></rect>
+            <circle id="Oval" cx="56.5" cy="101.5" r="1"></circle>
+            <circle id="Oval" cx="101.5" cy="101.5" r="1"></circle>
+            <line x1="54" y1="107" x2="58" y2="111" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="111" x2="58" y2="107" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="107" x2="104" y2="111" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="111" x2="104" y2="107" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="114" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="114" width="6" height="6"></rect>
+            <line x1="54" y1="123.05" x2="58" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="125.010784" x2="58" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="126.971569" x2="58" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="123.05" x2="104" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="125.010784" x2="104" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="126.971569" x2="104" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="130.05" x2="58" y2="130.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="132.010784" x2="58" y2="132.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="54" y1="133.971569" x2="58" y2="133.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="130.05" x2="104" y2="130.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="132.010784" x2="104" y2="132.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="100" y1="133.971569" x2="104" y2="133.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="137" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="137" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="144" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="53" y="152" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="99" y="152" width="6" height="6"></rect>
+            <line x1="62" y1="9.05" x2="66" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="11.0107843" x2="66" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="12.9715686" x2="66" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="9.05" x2="96" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="11.0107843" x2="96" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="12.9715686" x2="96" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="61" y="15" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="91" y="15" width="6" height="6"></rect>
+            <line x1="62" y1="24" x2="66" y2="28" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="28" x2="66" y2="24" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="24" x2="96" y2="28" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="28" x2="96" y2="24" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="31.05" x2="66" y2="31.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="33.0107843" x2="66" y2="33.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="34.9715686" x2="66" y2="34.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="31.05" x2="96" y2="31.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="33.0107843" x2="96" y2="33.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="34.9715686" x2="96" y2="34.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="61" y="38" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="91" y="38" width="6" height="6"></rect>
+            <line x1="62" y1="47" x2="66" y2="51" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="51" x2="66" y2="47" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="47" x2="96" y2="51" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="51" x2="96" y2="47" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="54.05" x2="66" y2="54.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="56.0107843" x2="66" y2="56.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="57.9715686" x2="66" y2="57.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="54.05" x2="96" y2="54.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="56.0107843" x2="96" y2="56.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="57.9715686" x2="96" y2="57.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="61" y="61" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="91" y="61" width="6" height="6"></rect>
+            <line x1="62" y1="69.05" x2="66" y2="69.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="71.0107843" x2="66" y2="71.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="72.9715686" x2="66" y2="72.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="69.05" x2="96" y2="69.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="71.0107843" x2="96" y2="71.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="72.9715686" x2="96" y2="72.9715686" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" x="62" y="77" width="4" height="4"></rect>
+            <rect id="Rectangle" x="92" y="77" width="4" height="4"></rect>
+            <rect id="Rectangle" x="62" y="85" width="4" height="4"></rect>
+            <rect id="Rectangle" x="92" y="85" width="4" height="4"></rect>
+            <line x1="62" y1="104" x2="66" y2="100" id="Path"></line>
+            <line x1="92" y1="104" x2="96" y2="100" id="Path"></line>
+            <rect id="Rectangle" x="62" y="115" width="4" height="4"></rect>
+            <rect id="Rectangle" x="92" y="115" width="4" height="4"></rect>
+            <circle id="Oval" cx="63.5" cy="124.5" r="1"></circle>
+            <circle id="Oval" cx="94.5" cy="124.5" r="1"></circle>
+            <line x1="62" y1="145.05" x2="66" y2="145.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="147.010784" x2="66" y2="147.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="62" y1="148.971569" x2="66" y2="148.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="145.05" x2="96" y2="145.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="147.010784" x2="96" y2="147.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="92" y1="148.971569" x2="96" y2="148.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="68" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="84" y="0" width="6" height="6"></rect>
+            <line x1="69" y1="9.05" x2="73" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="11.0107843" x2="73" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="12.9715686" x2="73" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="9.05" x2="89" y2="9.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="11.0107843" x2="89" y2="11.0107843" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="12.9715686" x2="89" y2="12.9715686" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="24" x2="73" y2="28" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="28" x2="73" y2="24" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="24" x2="89" y2="28" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="28" x2="89" y2="24" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="31" x2="73" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="35" x2="73" y2="31" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="31" x2="89" y2="35" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="35" x2="89" y2="31" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="51" x2="73" y2="47" id="Path"></line>
+            <line x1="85" y1="51" x2="89" y2="47" id="Path"></line>
+            <circle id="Oval" cx="71.5" cy="56.5" r="1"></circle>
+            <circle id="Oval" cx="86.5" cy="56.5" r="1"></circle>
+            <line x1="69" y1="66" x2="73" y2="62" id="Path"></line>
+            <line x1="85" y1="66" x2="89" y2="62" id="Path"></line>
+            <circle id="Oval" cx="71.5" cy="71.5" r="1"></circle>
+            <circle id="Oval" cx="86.5" cy="71.5" r="1"></circle>
+            <line x1="69" y1="77" x2="73" y2="81" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="81" x2="73" y2="77" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="77" x2="89" y2="81" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="81" x2="89" y2="77" id="Path" fill-rule="nonzero"></line>
+            <circle id="Oval" cx="71.5" cy="94.5" r="1"></circle>
+            <circle id="Oval" cx="86.5" cy="94.5" r="1"></circle>
+            <line x1="69" y1="111" x2="73" y2="107" id="Path"></line>
+            <line x1="85" y1="111" x2="89" y2="107" id="Path"></line>
+            <line x1="69" y1="123.05" x2="73" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="125.010784" x2="73" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="69" y1="126.971569" x2="73" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="123.05" x2="89" y2="123.05" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="125.010784" x2="89" y2="125.010784" id="Path" fill-rule="nonzero"></line>
+            <line x1="85" y1="126.971569" x2="89" y2="126.971569" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="68" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="84" y="129" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="68" y="137" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="84" y="137" width="6" height="6"></rect>
+            <circle id="Oval" cx="71.5" cy="147.5" r="1"></circle>
+            <circle id="Oval" cx="86.5" cy="147.5" r="1"></circle>
+            <rect id="Rectangle" x="69" y="153" width="4" height="4"></rect>
+            <rect id="Rectangle" x="85" y="153" width="4" height="4"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="0" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="0" width="6" height="6"></rect>
+            <line x1="77" y1="9" x2="81" y2="13" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="13" x2="81" y2="9" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="9" x2="81" y2="13" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="13" x2="81" y2="9" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="16" x2="81" y2="20" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="20" x2="81" y2="16" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="16" x2="81" y2="20" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="20" x2="81" y2="16" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="23" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="23" width="6" height="6"></rect>
+            <line x1="77" y1="35" x2="81" y2="31" id="Path"></line>
+            <line x1="77" y1="35" x2="81" y2="31" id="Path"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="38" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="38" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="46" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="46" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="53" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="53" width="6" height="6"></rect>
+            <line x1="77" y1="73" x2="81" y2="69" id="Path"></line>
+            <line x1="77" y1="73" x2="81" y2="69" id="Path"></line>
+            <line x1="77" y1="77" x2="81" y2="81" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="81" x2="81" y2="77" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="77" x2="81" y2="81" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="81" x2="81" y2="77" id="Path" fill-rule="nonzero"></line>
+            <circle id="Oval" cx="79.5" cy="86.5" r="1"></circle>
+            <circle id="Oval" cx="79.5" cy="86.5" r="1"></circle>
+            <line x1="77" y1="107" x2="81" y2="111" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="111" x2="81" y2="107" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="107" x2="81" y2="111" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="111" x2="81" y2="107" id="Path" fill-rule="nonzero"></line>
+            <circle id="Oval" cx="79.5" cy="116.5" r="1"></circle>
+            <circle id="Oval" cx="79.5" cy="116.5" r="1"></circle>
+            <line x1="77" y1="127" x2="81" y2="123" id="Path"></line>
+            <line x1="77" y1="127" x2="81" y2="123" id="Path"></line>
+            <line x1="77" y1="130" x2="81" y2="134" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="134" x2="81" y2="130" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="130" x2="81" y2="134" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="134" x2="81" y2="130" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="138" x2="81" y2="142" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="142" x2="81" y2="138" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="138" x2="81" y2="142" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="142" x2="81" y2="138" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="145" x2="81" y2="149" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="149" x2="81" y2="145" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="145" x2="81" y2="149" id="Path" fill-rule="nonzero"></line>
+            <line x1="77" y1="149" x2="81" y2="145" id="Path" fill-rule="nonzero"></line>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="152" width="6" height="6"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="76" y="152" width="6" height="6"></rect>
+        </g>
+    </g>
+</svg>
