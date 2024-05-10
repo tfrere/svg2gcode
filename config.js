@@ -1,7 +1,7 @@
 export const config = {
   width: 190,
   height: 280,
-  feedrate: 1000,
+  feedrate: 6000,
   penUp: 0,
   penDown: 90,
   plotter: {
@@ -14,7 +14,7 @@ export const config = {
     penDown: "M3 S90",
     pause: "G4 P0.1",
   },
-  folderToWatch: "./data/input-svg-folder",
-  outputFolder: "./data/output-gcode-folder",
+  folderToWatch: "/Users/frerethibaud/Downloads",
+  outputFolder: "/Users/frerethibaud/Downloads",
   segmentLength: 1,
 };

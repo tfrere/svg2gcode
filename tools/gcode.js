@@ -77,6 +77,7 @@ ${ORIGIN}`;
             `G0 X${point.x.toFixed(2)} Y${point.y.toFixed(2)} F${FEEDRATE}`
           );
           gcode.push(PEN_DOWN);
+          gcode.push(PAUSE);
         } else {
           gcode.push(
             `G1 X${point.x.toFixed(2)} Y${point.y.toFixed(2)} F${FEEDRATE}`
